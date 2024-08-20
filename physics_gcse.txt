@@ -1,0 +1,245 @@
+output_files/IGCSE/Physics 2023/
+├── 1. Motion, Forces & Energy/
+│   ├── Effects of Forces/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Energy Sources/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Energy, Work & Power/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Mass, Weight & Density/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Moments/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Momentum/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Motion/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Physical Quantities & Measurement Techniques/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Pressure/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+├── 2. Thermal Physics/
+│   ├── Kinetic Particle Model of Matter/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Thermal Properties & Temperature/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Transfer of Thermal Energy/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+├── 3. Waves/
+│   ├── Electromagnetic Spectrum/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── General Properties of Waves/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Light/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Sound/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+├── 4. Electricity & Magnetism/
+│   ├── Electric Circuits & Electrical Safety/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Electrical Quantities/
+│   │   ├── Alternative to Practical Questions/
+│   │   │   └── medium.pdf
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Electromagnetic Effects/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Simple Phenomena of Magnetism/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+├── 5. Nuclear Physics/
+│   ├── Radioactivity/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── The Nuclear Model of the Atom/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+├── 6. Space Physics/
+│   ├── Earth & The Solar System/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   ├── Stars & The Universe/
+│   │   ├── Multiple Choice Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf
+│   │   ├── Theory Questions/
+│   │   │   ├── easy.pdf
+│   │   │   ├── hard.pdf
+│   │   │   └── medium.pdf

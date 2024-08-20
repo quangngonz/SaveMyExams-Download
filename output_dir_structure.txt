@@ -1,0 +1,5074 @@
+output_files/
+├── A Level/
+│   ├── Biology 2022/
+│   │   ├── 1. Cell Structure/
+│   │   │   ├── 1.1 The Microscope in Cell Studies/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 Cells as the Basic Units of Living Organisms/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. Infectious Diseases/
+│   │   │   ├── 10.1 Infectious Diseases/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 10.2 Antibiotics/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Immunity/
+│   │   │   ├── 11.1 The Immune System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.2 Antibodies & Vaccination/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 12. Energy & Respiration/
+│   │   │   ├── 12.1 Energy/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 12.2 Respiration/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 13. Photosynthesis/
+│   │   │   ├── 13.1 Photosynthesis as an Energy Transfer Process/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.2 Investigation of Limiting Factors/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 14. Homeostasis/
+│   │   │   ├── 14.1 Homeostasis in Mammals/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 14.2 Homeostasis in Plants/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 15. Control & Coordination/
+│   │   │   ├── 15.1 Control & Coordination in Mammals/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 15.2 Control & Coordination in Plants/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 16. Inheritance/
+│   │   │   ├── 16.1 Passage of Information from Parents to Offspring/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 16.2 The Roles of Genes in Determining the Phenotype/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 16.3 Gene Control/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 17. Selection & Evolution/
+│   │   │   ├── 17.1 Variation/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 17.2 Natural & Artificial Selection/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 17.3 Evolution/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 18. Classification, Biodiversity & Conservation/
+│   │   │   ├── 18.1 Classification/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.2 Biodiversity/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.3 Conservation/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 19. Genetic Technology/
+│   │   │   ├── 19.1 Principles of Genetic Technology/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 19.2 Genetic Technology Applied to Medicine/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 19.3 Genetically Modified Organisms in Agriculture/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Biological Molecules/
+│   │   │   ├── 2.1 Testing for Biological Molecules/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.2 Carbohydrates & Lipids/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.3 Proteins/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.4 Water/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Enzymes/
+│   │   │   ├── 3.1 Mode of Action of Enzymes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Factors that Affect Enzyme Action/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Cell Membranes & Transport/
+│   │   │   ├── 4.1 Fluid Mosaic Membranes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.2 Movement into & out of Cells/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. The Mitotic Cell Cycle/
+│   │   │   ├── 5.1 Replication & Division of Nuclei & Cells/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Chromosome Behaviour in Mitosis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Nucleic Acids & Protein Synthesis/
+│   │   │   ├── 6.1 Structure of Nucleic Acids & Replication of DNA/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 6.2 Protein Synthesis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Transport in Plants/
+│   │   │   ├── 7.1 Structure of Transport Tissues/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Transport Mechanisms/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Transport in Mammals/
+│   │   │   ├── 8.1 The Circulatory System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.2 Transport of Oxygen & Carbon Dioxide/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.3 The Heart/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Gas Exchange/
+│   │   │   ├── 9.1 The Gas Exchange System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Biology 2025/
+│   │   ├── 1. Cell Structure/
+│   │   │   ├── 1.1 The Microscope in Cell Studies/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 Cells as the Basic Units of Living Organisms/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. Infectious Diseases/
+│   │   │   ├── 10.1 Infectious Diseases/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 10.2 Antibiotics/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Immunity/
+│   │   │   ├── 11.1 The Immune System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.2 Antibodies & Vaccination/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 12. Energy & Respiration/
+│   │   │   ├── 12.1 Energy/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 12.2 Respiration/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 13. Photosynthesis/
+│   │   │   ├── 13.1 Photosynthesis as an Energy Transfer Process/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.2 Investigation of Limiting Factors/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 14. Homeostasis/
+│   │   │   ├── 14.1 Homeostasis in Mammals/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 14.2 Homeostasis in Plants/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 15. Control & Coordination/
+│   │   │   ├── 15.1 Control & Coordination in Mammals/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 15.2 Control & Coordination in Plants/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 16. Inheritance/
+│   │   │   ├── 16.1 Passage of Information from Parents to Offspring/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 16.2 The Roles of Genes in Determining the Phenotype/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 16.3 Gene Control/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 17. Selection & Evolution/
+│   │   │   ├── 17.1 Variation/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 17.2 Natural & Artificial Selection/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 17.3 Evolution/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 18. Classification, Biodiversity & Conservation/
+│   │   │   ├── 18.1 Classification/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.2 Biodiversity/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.3 Conservation/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 19. Genetic Technology/
+│   │   │   ├── 19.1 Principles of Genetic Technology/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 19.2 Genetic Technology Applied to Medicine/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 19.3 Genetically Modified Organisms in Agriculture/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Biological Molecules/
+│   │   │   ├── 2.1 Testing for Biological Molecules/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.2 Carbohydrates & Lipids/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.3 Proteins/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.4 Water/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Enzymes/
+│   │   │   ├── 3.1 Mode of Action of Enzymes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Factors that Affect Enzyme Action/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Cell Membranes & Transport/
+│   │   │   ├── 4.1 Fluid Mosaic Membranes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.2 Movement into & out of Cells/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. The Mitotic Cell Cycle/
+│   │   │   ├── 5.1 Replication & Division of Nuclei & Cells/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Chromosome Behaviour in Mitosis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Nucleic Acids & Protein Synthesis/
+│   │   │   ├── 6.1 Structure of Nucleic Acids & Replication of DNA/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 6.2 Protein Synthesis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Transport in Plants/
+│   │   │   ├── 7.1 Structure of Transport Tissues/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Transport Mechanisms/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Transport in Mammals/
+│   │   │   ├── 8.1 The Circulatory System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.2 Transport of Oxygen & Carbon Dioxide/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.3 The Heart/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Gas Exchange/
+│   │   │   ├── 9.1 The Gas Exchange System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Chemistry 2022/
+│   │   ├── 1. Physical Chemistry/
+│   │   │   ├── 1.1 Atomic Structure/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 Atoms, Molecules & Stoichiometry/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.3 Chemical Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.4 States of Matter/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.5 Chemical Energetics/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.6 Electrochemistry/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.7 Equilibria/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.8 Reaction Kinetics/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Inorganic Chemistry/
+│   │   │   ├── 2.1 The Periodic Table: Chemical Periodicity/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.2 Group 2/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.3 Group 17/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.4 Nitrogen & Sulfur/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Organic Chemistry/
+│   │   │   ├── 3.1 An Introduction to AS Level Organic Chemistry/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Hydrocarbons/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.3 Halogen Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.4 Hydroxy Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.5 Carbonyl Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.6 Carboxylic Acids & Derivatives/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.7 Nitrogen Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.8 Polymerisation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.9 Organic Synthesis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Analysis/
+│   │   │   ├── 4.1 Analytical Techniques/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Physical Chemistry (A Level Only)/
+│   │   │   ├── 5.1 Chemical Energetics (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Entropy (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.3 Principles of Electrochemistry (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.4 Electrochemistry Calculations & Applications (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.5 Equilibria (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.6 Reaction Kinetics (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Inorganic Chemistry (A Level Only)/
+│   │   │   ├── 6.1 Group 2 (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 6.2 Properties of Transition Elements (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 6.3 Transition Element Complexes: Isomers, Reactions & Stability (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Organic Chemistry (A Level Only)/
+│   │   │   ├── 7.1 An Introduction to A Level Organic Chemistry (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Hydrocarbons (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── hard.pdf
+│   │   │   ├── 7.3 Halogen Compounds (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.4 Hydroxy Compounds (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.5 Carboxylic Acids & Derivatives (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.6 Nitrogen Compounds (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.7 Polymerisation (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.8 Organic Synthesis (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Analysis (A Level Only)/
+│   │   │   ├── 8.1 Analytical Techniques (A Level Only)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Chemistry 2025/
+│   │   ├── 1. Atomic Structure/
+│   │   │   ├── 1.1 Particles in the Atom & Atomic Radius/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 Isotopes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.3 Electrons, Energy Levels & Atomic Orbitals/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.4 Ionisation Energy/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. Group 2/
+│   │   │   ├── 10.1 Similarities & Trends in the Properties of the Group 2 Metals, Magnesium to Barium, & Their Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Group 17/
+│   │   │   ├── 11.1 Physical Properties of the Group 17 Elements/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.2 The Chemical Properties of the Halogen Elements & the Hydrogen Halides/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.3 Some Reactions of the Halide Ions/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.4 The Reactions of Chlorine/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 12. Nitrogen & Sulfur/
+│   │   │   ├── 12.1 Nitrogen & Sulfur/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 13. An Introduction to AS Level Organic Chemistry/
+│   │   │   ├── 13.1 Formulas, Functional Groups & the Naming of Organic Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.2 Characteristic Organic Reactions/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.3 Shapes of Organic Molecules; σ & π Bonds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.4 Isomerism: Structural Isomerism & Stereoisomerism/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 14. Hydrocarbons/
+│   │   │   ├── 14.1 Alkanes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 14.2 Alkenes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 15. Halogen Compounds/
+│   │   │   ├── 15.1 Halogenoalkanes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 16. Hydroxy Compounds/
+│   │   │   ├── 16.1 Alcohols/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 17. Carbonyl Compounds/
+│   │   │   ├── 17.1 Aldehydes & Ketones/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 18. Carboxylic Acids & Derivatives/
+│   │   │   ├── 18.1 Carboxylic Acids/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.2 Esters/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 19. Nitrogen Compounds/
+│   │   │   ├── 19.1 Primary Amines/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 19.2 Nitriles & Hydroxynitriles/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Atoms, Molecules & Stoichiometry/
+│   │   │   ├── 2.1 Relative Masses of Atoms & Molecules/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.2 The Mole & the Avogadro Constant/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.3 Formulas/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.4 Reacting Masses & Volumes (of Solutions & Gases)/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 20. Polymerisation/
+│   │   │   ├── 20.1 Addition Polymerisation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 21. Organic Synthesis/
+│   │   │   ├── 21.1 Organic Synthesis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 22. Analytical Techniques/
+│   │   │   ├── 22.1 Infrared Spectroscopy/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 22.2 Mass Spectrometry/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 23. Chemical Energetics (AL)/
+│   │   │   ├── 23.1 Lattice Energy & Born-Haber Cycles/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 23.2 Enthalpies of Solution & Hydration/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 23.3 Entropy Change, ΔS/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 23.4 Gibbs Free Energy Change, ΔG/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 24. Electrochemistry (AL)/
+│   │   │   ├── 24.1 Electrolysis/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 24.2 Standard Electrode Potentials E⦵, Standard Cell Potentials E⦵cell & the Nernst Equation/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 25. Equilibria (AL)/
+│   │   │   ├── 25.1 Acids & Bases/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 25.2 Partition Coefficients/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 26. Reaction Kinetics (AL)/
+│   │   │   ├── 26.1 Simple Rate Equations, Orders of Reaction & Rate Constants/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 26.2 Homogeneous & Heterogeneous Catalysts (AL)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 27. Group 2 (AL)/
+│   │   │   ├── 27.1 Similarities & Trends in the Properties of the Group 2 Metals, Magnesium to Barium, & Their Compounds (AL)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 28. Chemistry of Transition Elements/
+│   │   │   ├── 28.1 General Physical & Chemical Properties of the First Row of Transition Elements, Titanium to Copper/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 28.2 General Characteristic Chemical Properties of the First Set of Transition Elements, Titanium to Copper/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 28.3 Colour of Complexes/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 28.4 Stereoisomerism in Transition Element Complexes/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 28.5 Stability Constants, Kstab/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 29. An Introduction to A Level Organic Chemistry/
+│   │   │   ├── 29.1 Formulas, Functional Groups & the Naming of Organic Compounds (AL)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 29.2 Characteristic Organic Reactions (AL)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 29.3 Shapes of Aromatic Organic Molecules; σ & π Bonds/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 29.4 Isomerism: Optical/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Chemical Bonding/
+│   │   │   ├── 3.1 Electronegativity & Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Ionic Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.3 Metallic Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.4 Covalent Bonding & Coordinate (Dative Covalent) Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.5 Shapes of Molecules/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.6 Intermolecular Forces, Electronegativity & Bond Properties/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.7 Dot-&-Cross Diagrams/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 30. Hydrocarbons (AL)/
+│   │   │   ├── 30.1 Arenes/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 31. Halogen Compounds (AL)/
+│   │   │   ├── 31.1 Halogen Compounds/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 32. Hydroxy Compounds (AL)/
+│   │   │   ├── 32.1 Alcohols (AL)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 32.2 Phenol/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 33. Carboxylic Acids & Derivatives (AL)/
+│   │   │   ├── 33.1 Carboxylic Acids (AL)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 33.2 Esters (AL)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 33.3 Acyl Chlorides/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 34. Nitrogen Compounds (AL)/
+│   │   │   ├── 34.1 Primary & Secondary Amines/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 34.2 Phenylamine & Azo Compounds/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 34.3 Amides/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 34.4 Amino Acids/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 35. Polymerisation (AL)/
+│   │   │   ├── 35.1 Condensation Polymerisation/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 35.2 Predicting the Type of Polymerisation/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 35.3 Degradable Polymers/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 36. Organic Synthesis (AL)/
+│   │   │   ├── 36.1 Organic Synthesis (AL)/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 37. Analytical Techniques (AL)/
+│   │   │   ├── 37.1 Thin-Layer Chromatography/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 37.2 Gas/
+│   │   │   │   ├── Liquid Chromatography/
+│   │   │   │   │   ├── Structured Questions/
+│   │   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   │   └── medium.pdf
+│   │   │   ├── 37.3 Carbon-13 NMR Spectroscopy/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 37.4 Proton (1H) NMR Spectroscopy/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. States of Matter/
+│   │   │   ├── 4.1 The Gaseous State: Ideal & Real Gases & pV = nRT/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.2 Bonding & Structure/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Chemical Energetics/
+│   │   │   ├── 5.1 Enthalpy Change, ΔH/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Hess’s Law/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Electrochemistry/
+│   │   │   ├── 6.1 Redox Processes: Electron Transfer & Changes in Oxidation Number (Oxidation State)/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Equilibria/
+│   │   │   ├── 7.1 Chemical Equilibria: Reversible Reactions & Dynamic Equilibrium/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Brønsted–Lowry Theory of Acids & Bases/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Reaction Kinetics/
+│   │   │   ├── 8.1 Rate of Reaction/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.2 Effect of Temperature on Reaction Rates & the Concept of Activation Energy/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.3 Homogeneous & Heterogeneous Catalysts/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. The Periodic Table: Chemical Periodicity/
+│   │   │   ├── 9.1 Periodicity of Physical Properties of the Elements in Period 3/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.2 Periodicity of Chemical Properties of the Elements in Period 3/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.3 Chemical Periodicity of Other Elements/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   ├── Physics 2022/
+│   │   ├── 1. Physical Quantities & Units/
+│   │   │   ├── 1.1 Physical Quantities & Units/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 Measurements & Errors/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. D.C. Circuits/
+│   │   │   ├── 10.1 DC: Practical Circuits & Kirchhoff's Laws/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 10.2 DC: Potential Dividers/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Particle Physics/
+│   │   │   ├── 11.1 Atoms, Nuclei & Radiation/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.2 Fundamental Particles/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 12. Motion in a Circle/
+│   │   │   ├── 12.1 Kinematics of Uniform Circular Motion/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 12.2 Centripetal Acceleration/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 13. Gravitational Fields/
+│   │   │   ├── 13.1 Universal Gravitation/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.2 Gravitational Potential/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 14. Temperature/
+│   │   │   ├── 14.1 Measuring Temperature/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 14.2 Phase Changes/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 15. Ideal Gases/
+│   │   │   ├── 15.1 Ideal Gas Law/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 15.2 Kinetic Theory/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 16. Thermodynamics/
+│   │   │   ├── 16.1 The First Law of Thermodynamics/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 17. Oscillations/
+│   │   │   ├── 17.1 Simple Harmonic Motion/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 17.2 Damped Oscillations/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 18. Electric Fields/
+│   │   │   ├── 18.1 Electric Fields/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.2 Electric Potential/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 19. Capacitance/
+│   │   │   ├── 19.1 Capacitors/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 19.2 Charging and Discharging/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Kinematics/
+│   │   │   ├── 2.1 Equations of Motion/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 20. Magnetic Fields/
+│   │   │   ├── 20.1 Magnetic Fields/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 20.2 Electromagnetic Induction/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 21. Alternating Currents/
+│   │   │   ├── 21.1 Properties and Uses of Alternating Current/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 22. Quantum Physics/
+│   │   │   ├── 22.1 The Photoelectric Effect/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 22.2 Wave-Particle Duality/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 22.3 Quantisation of Energy/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 23. Nuclear Physics/
+│   │   │   ├── 23.1 Mass Defect & Nuclear Binding Energy/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 23.2 Radioactive Decay/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 24. Medical Physics/
+│   │   │   ├── 24.1 Ultrasound & X-rays/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 24.2 PET Scanning/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 25. Astronomy & Cosmology/
+│   │   │   ├── 25.1 Astronomy/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 25.2 Cosmology/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Dynamics/
+│   │   │   ├── 3.1 Newton's Laws of Motion/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Linear Momentum & Conservation/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Forces, Density & Pressure/
+│   │   │   ├── 4.1 Forces: Turning Effects & Equilibrium/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.2 Forces: Density & Pressure/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Work, Energy & Power/
+│   │   │   ├── 5.1 Energy: Conservation, Work, Power & Efficiency/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Energy: GPE & KE/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Deformation of Solids/
+│   │   │   ├── 6.1 Deformation: Stress & Strain/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 6.2 Deformation: Elastic & Plastic Behaviour/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Waves/
+│   │   │   ├── 7.1 Waves: Transverse & Longitudinal/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Transverse Waves: EM Spectrum & Polarisation/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Superposition/
+│   │   │   ├── 8.1 Stationary Waves/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.2 Diffraction & Interference/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Electricity/
+│   │   │   ├── 9.1 Current & Potential Difference/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.2 Resistance/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.3 Resistivity/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Physics 2025/
+│   │   ├── 1. Physical Quantities & Units/
+│   │   │   ├── 1.1 Physical Quantities/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 SI Units/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.3 Errors & Uncertainties/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.4 Scalars & Vectors/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. D.C. Circuits/
+│   │   │   ├── 10.1 Practical Circuits/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 10.2 Kirchhoff’s Laws/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 10.3 Potential Dividers/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Particle Physics/
+│   │   │   ├── 11.1 Atoms, Nuclei & Radiation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.2 Fundamental Particles/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 12. Motion in a Circle/
+│   │   │   ├── 12.1 Kinematics of Uniform Circular Motion/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 12.2 Centripetal Acceleration/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 13. Gravitational Fields/
+│   │   │   ├── 13.1 Gravitational Field/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.2 Gravitational Force Between Point Masses/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.3 Gravitational Field of a Point Mass/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.4 Gravitational Potential/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 14. Temperature/
+│   │   │   ├── 14.1 Thermal Equilibrium/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 14.2 Temperature Scales/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 14.3 Specific Heat Capacity & Specific Latent Heat/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 15. Ideal Gases/
+│   │   │   ├── 15.1 The Mole/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 15.2 Equation of State/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 15.3 Kinetic Theory of Gases/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 16. Thermodynamics/
+│   │   │   ├── 16.1 Internal Energy/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 16.2 The First Law of Thermodynamics/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 17. Oscillations/
+│   │   │   ├── 17.1 Simple Harmonic Oscillations/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 17.2 Energy in Simple Harmonic Motion/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 17.3 Damped & Forced Oscillations, Resonance/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 18. Electric Fields/
+│   │   │   ├── 18.1 Electric Fields & Field Lines/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.2 Uniform Electric Fields/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.3 Electric Force Between Point Charges/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.4 Electric Field of a Point Charge/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.5 Electric Potential/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 19. Capacitance/
+│   │   │   ├── 19.1 Capacitors & Capacitance/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 19.2 Energy Stored in a Capacitor/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 19.3 Discharging a Capacitor/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Kinematics/
+│   │   │   ├── 2.1 Equations of Motion/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 20. Magnetic Fields/
+│   │   │   ├── 20.1 Concept of a Magnetic Field/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 20.2 Force on a Current-Carrying Conductor/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 20.3 Force on a Moving Charge/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 20.4 Magnetic Fields Due to Currents/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 20.5 Electromagnetic Induction/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 21. Alternating Currents/
+│   │   │   ├── 21.1 Characteristics of Alternating Currents/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 21.2 Rectification & Smoothing/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 22. Quantum Physics/
+│   │   │   ├── 22.1 Energy & Momentum of a Photon/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 22.2 Photoelectric Effect/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 22.3 Wave-Particle Duality/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 22.4 Energy Levels in Atoms & Line Spectra/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 23. Nuclear Physics/
+│   │   │   ├── 23.1 Mass Defect & Nuclear Binding Energy/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 23.2 Radioactive Decay/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 24. Medical Physics/
+│   │   │   ├── 24.1 Production & Use of Ultrasound/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 24.2 Production & Use of X-rays/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 24.3 PET Scanning/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 25. Astronomy & Cosmology/
+│   │   │   ├── 25.1 Standard Candles/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 25.2 Stellar Radii/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 25.3 Hubble’s Law & the Big Bang Theory/
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Dynamics/
+│   │   │   ├── 3.1 Momentum & Newton’s Laws of Motion/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Non-uniform Motion/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.3 Linear Momentum & its Conservation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Forces, Density & Pressure/
+│   │   │   ├── 4.1 Turning Effects of Forces/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.2 Equilibrium of Forces/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.3 Density & Pressure/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Work, Energy & Power/
+│   │   │   ├── 5.1 Energy Conservation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Gravitational Potential Energy & Kinetic Energy/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Deformation of Solids/
+│   │   │   ├── 6.1 Stress & Strain/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 6.2 Elastic & Plastic Behaviour/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Waves/
+│   │   │   ├── 7.1 Progressive Waves/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Transverse & Longitudinal Waves/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.3 Doppler Effect for Sound Waves/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.4 Electromagnetic Spectrum/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.5 Polarisation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Superposition/
+│   │   │   ├── 8.1 Stationary Waves/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.2 Diffraction/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.3 Interference/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.4 The Diffraction Grating/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Electricity/
+│   │   │   ├── 9.1 Electric Current/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.2 Potential Difference & Power/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.3 Resistance & Resistivity/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+├── AS/
+│   ├── Biology 2025/
+│   │   ├── 1. Cell Structure/
+│   │   │   ├── 1.1 The Microscope in Cell Studies/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 Cells as the Basic Units of Living Organisms/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. Infectious Diseases/
+│   │   │   ├── 10.1 Infectious Diseases/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 10.2 Antibiotics/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Immunity/
+│   │   │   ├── 11.1 The Immune System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.2 Antibodies & Vaccination/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Biological Molecules/
+│   │   │   ├── 2.1 Testing for Biological Molecules/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.2 Carbohydrates & Lipids/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.3 Proteins/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.4 Water/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Enzymes/
+│   │   │   ├── 3.1 Mode of Action of Enzymes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Factors that Affect Enzyme Action/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Cell Membranes & Transport/
+│   │   │   ├── 4.1 Fluid Mosaic Membranes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.2 Movement into & out of Cells/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. The Mitotic Cell Cycle/
+│   │   │   ├── 5.1 Replication & Division of Nuclei & Cells/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Chromosome Behaviour in Mitosis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Nucleic Acids & Protein Synthesis/
+│   │   │   ├── 6.1 Structure of Nucleic Acids & Replication of DNA/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 6.2 Protein Synthesis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Transport in Plants/
+│   │   │   ├── 7.1 Structure of Transport Tissues/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Transport Mechanisms/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Transport in Mammals/
+│   │   │   ├── 8.1 The Circulatory System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.2 Transport of Oxygen & Carbon Dioxide/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.3 The Heart/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Gas Exchange/
+│   │   │   ├── 9.1 The Gas Exchange System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Chemistry 2022/
+│   │   ├── 1. Physical Chemistry/
+│   │   │   ├── 1.1 Atomic Structure/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 Atoms, Molecules & Stoichiometry/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.3 Chemical Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.4 States of Matter/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.5 Chemical Energetics/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.6 Electrochemistry/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.7 Equilibria/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.8 Reaction Kinetics/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Inorganic Chemistry/
+│   │   │   ├── 2.1 The Periodic Table: Chemical Periodicity/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.2 Group 2/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.3 Group 17/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.4 Nitrogen & Sulfur/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Organic Chemistry/
+│   │   │   ├── 3.1 An Introduction to AS Level Organic Chemistry/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Hydrocarbons/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.3 Halogen Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.4 Hydroxy Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.5 Carbonyl Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.6 Carboxylic Acids & Derivatives/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.7 Nitrogen Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.8 Polymerisation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.9 Organic Synthesis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Analysis/
+│   │   │   ├── 4.1 Analytical Techniques/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Chemistry 2025/
+│   │   ├── 1. Atomic Structure/
+│   │   │   ├── 1.1 Particles in the Atom & Atomic Radius/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 Isotopes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.3 Electrons, Energy Levels & Atomic Orbitals/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.4 Ionisation Energy/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. Group 2/
+│   │   │   ├── 10.1 Similarities & Trends in the Properties of the Group 2 Metals, Magnesium to Barium, & Their Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Group 17/
+│   │   │   ├── 11.1 Physical Properties of the Group 17 Elements/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.2 The Chemical Properties of the Halogen Elements & the Hydrogen Halides/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.3 Some Reactions of the Halide Ions/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.4 The Reactions of Chlorine/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 12. Nitrogen & Sulfur/
+│   │   │   ├── 12.1 Nitrogen & Sulfur/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 13. An Introduction to AS Level Organic Chemistry/
+│   │   │   ├── 13.1 Formulas, Functional Groups & the Naming of Organic Compounds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.2 Characteristic Organic Reactions/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.3 Shapes of Organic Molecules; σ & π Bonds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 13.4 Isomerism: Structural Isomerism & Stereoisomerism/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 14. Hydrocarbons/
+│   │   │   ├── 14.1 Alkanes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 14.2 Alkenes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 15. Halogen Compounds/
+│   │   │   ├── 15.1 Halogenoalkanes/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 16. Hydroxy Compounds/
+│   │   │   ├── 16.1 Alcohols/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 17. Carbonyl Compounds/
+│   │   │   ├── 17.1 Aldehydes & Ketones/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 18. Carboxylic Acids & Derivatives/
+│   │   │   ├── 18.1 Carboxylic Acids/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 18.2 Esters/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 19. Nitrogen Compounds/
+│   │   │   ├── 19.1 Primary Amines/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 19.2 Nitriles & Hydroxynitriles/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Atoms, Molecules & Stoichiometry/
+│   │   │   ├── 2.1 Relative Masses of Atoms & Molecules/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.2 The Mole & the Avogadro Constant/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.3 Formulas/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 2.4 Reacting Masses & Volumes (of Solutions & Gases)/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 20. Polymerisation/
+│   │   │   ├── 20.1 Addition Polymerisation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 21. Organic Synthesis/
+│   │   │   ├── 21.1 Organic Synthesis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 22. Analytical Techniques/
+│   │   │   ├── 22.1 Infrared Spectroscopy/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 22.2 Mass Spectrometry/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Chemical Bonding/
+│   │   │   ├── 3.1 Electronegativity & Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Ionic Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.3 Metallic Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.4 Covalent Bonding & Coordinate (Dative Covalent) Bonding/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.5 Shapes of Molecules/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.6 Intermolecular Forces, Electronegativity & Bond Properties/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.7 Dot-&-Cross Diagrams/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. States of Matter/
+│   │   │   ├── 4.1 The Gaseous State: Ideal & Real Gases & pV = nRT/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.2 Bonding & Structure/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Chemical Energetics/
+│   │   │   ├── 5.1 Enthalpy Change, ΔH/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Hess’s Law/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Electrochemistry/
+│   │   │   ├── 6.1 Redox Processes: Electron Transfer & Changes in Oxidation Number (Oxidation State)/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Equilibria/
+│   │   │   ├── 7.1 Chemical Equilibria: Reversible Reactions & Dynamic Equilibrium/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Brønsted–Lowry Theory of Acids & Bases/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Reaction Kinetics/
+│   │   │   ├── 8.1 Rate of Reaction/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.2 Effect of Temperature on Reaction Rates & the Concept of Activation Energy/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.3 Homogeneous & Heterogeneous Catalysts/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. The Periodic Table: Chemical Periodicity/
+│   │   │   ├── 9.1 Periodicity of Physical Properties of the Elements in Period 3/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.2 Periodicity of Chemical Properties of the Elements in Period 3/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.3 Chemical Periodicity of Other Elements/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   ├── Physics 2022/
+│   │   ├── 1. Physical Quantities & Units/
+│   │   │   ├── 1.1 Physical Quantities & Units/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 Measurements & Errors/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. D.C. Circuits/
+│   │   │   ├── 10.1 DC: Practical Circuits & Kirchhoff's Laws/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 10.2 DC: Potential Dividers/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Particle Physics/
+│   │   │   ├── 11.1 Atoms, Nuclei & Radiation/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.2 Fundamental Particles/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Kinematics/
+│   │   │   ├── 2.1 Equations of Motion/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Dynamics/
+│   │   │   ├── 3.1 Newton's Laws of Motion/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Linear Momentum & Conservation/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Forces, Density & Pressure/
+│   │   │   ├── 4.1 Forces: Turning Effects & Equilibrium/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.2 Forces: Density & Pressure/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Work, Energy & Power/
+│   │   │   ├── 5.1 Energy: Conservation, Work, Power & Efficiency/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Energy: GPE & KE/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Deformation of Solids/
+│   │   │   ├── 6.1 Deformation: Stress & Strain/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 6.2 Deformation: Elastic & Plastic Behaviour/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Waves/
+│   │   │   ├── 7.1 Waves: Transverse & Longitudinal/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Transverse Waves: EM Spectrum & Polarisation/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Superposition/
+│   │   │   ├── 8.1 Stationary Waves/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.2 Diffraction & Interference/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Electricity/
+│   │   │   ├── 9.1 Current & Potential Difference/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.2 Resistance/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.3 Resistivity/
+│   │   │   │   ├── Multiple Choice/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Physics 2025/
+│   │   ├── 1. Physical Quantities & Units/
+│   │   │   ├── 1.1 Physical Quantities/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.2 SI Units/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.3 Errors & Uncertainties/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 1.4 Scalars & Vectors/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. D.C. Circuits/
+│   │   │   ├── 10.1 Practical Circuits/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 10.2 Kirchhoff’s Laws/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 10.3 Potential Dividers/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Particle Physics/
+│   │   │   ├── 11.1 Atoms, Nuclei & Radiation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 11.2 Fundamental Particles/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Kinematics/
+│   │   │   ├── 2.1 Equations of Motion/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Dynamics/
+│   │   │   ├── 3.1 Momentum & Newton’s Laws of Motion/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.2 Non-uniform Motion/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 3.3 Linear Momentum & its Conservation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Forces, Density & Pressure/
+│   │   │   ├── 4.1 Turning Effects of Forces/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.2 Equilibrium of Forces/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 4.3 Density & Pressure/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Work, Energy & Power/
+│   │   │   ├── 5.1 Energy Conservation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 5.2 Gravitational Potential Energy & Kinetic Energy/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Deformation of Solids/
+│   │   │   ├── 6.1 Stress & Strain/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 6.2 Elastic & Plastic Behaviour/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Waves/
+│   │   │   ├── 7.1 Progressive Waves/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.2 Transverse & Longitudinal Waves/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.3 Doppler Effect for Sound Waves/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.4 Electromagnetic Spectrum/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 7.5 Polarisation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Superposition/
+│   │   │   ├── 8.1 Stationary Waves/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.2 Diffraction/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.3 Interference/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 8.4 The Diffraction Grating/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Electricity/
+│   │   │   ├── 9.1 Electric Current/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.2 Potential Difference & Power/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── 9.3 Resistance & Resistivity/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Structured Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+├── IGCSE/
+│   ├── Biology 2023/
+│   │   ├── 1. Characteristics & Classification of Living Organisms/
+│   │   │   ├── 1.1 Characteristics, Classification & Features of Organisms/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. Diseases & Immunity/
+│   │   │   ├── 10.1 Diseases & Immunity/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Gas Exchange in Humans/
+│   │   │   ├── 11.1 Gas Exchange in Humans/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 12. Respiration/
+│   │   │   ├── 12.1 Respiration/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 13. Excretion in Humans/
+│   │   │   ├── 13.1 Excretion in Humans/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 14. Coordination & Response/
+│   │   │   ├── 14.1 Coordination, Response & Homeostasis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 15. Drugs/
+│   │   │   ├── 15.1 Drugs in Medicine/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 16. Reproduction/
+│   │   │   ├── 16.1 Reproduction in Plants & Humans/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 17. Inheritance/
+│   │   │   ├── 17.1 Inheritance, Genes & Cell Division/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 18. Variation & Selection/
+│   │   │   ├── 18.1 Variation & Natural Selection/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 19. Organisms & Their Environment/
+│   │   │   ├── 19.1 Energy & Feeding Relationships/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Organisation of the Organism/
+│   │   │   ├── 2.1 Cell Structure & Size of Specimens/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 20. Human Influences on Ecosystems/
+│   │   │   ├── 20.1 Human Impact: Biodiversity, Pollution & Conservation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 21. Biotechnology & Genetic Modification/
+│   │   │   ├── 21.1 Biotechnology & Genetic Modification/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Movement into & out of Cells/
+│   │   │   ├── 3.1 Diffusion, Osmosis & Active Transport/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Biological Molecules/
+│   │   │   ├── 4.1 Biological Molecules/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Enzymes/
+│   │   │   ├── 5.1 Enzymes/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Plant Nutrition/
+│   │   │   ├── 6.1 Photosynthesis & Leaf Structure/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Human Nutrition/
+│   │   │   ├── 7.1 Human Diet & Digestion/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Transport in Plants/
+│   │   │   ├── 8.1 Transport in Plants/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Transport in Animals/
+│   │   │   ├── 9.1 Circulatory Systems, Heart & Blood Vessels/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Biology 23/
+│   │   ├── 1. Characteristics & Classification of Living Organisms/
+│   │   │   ├── Characteristics, Classification & Features of Organisms/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   └── easy.pdf
+│   │   ├── 10. Diseases & Immunity/
+│   │   │   ├── Diseases & Immunity/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Gas Exchange in Humans/
+│   │   │   ├── Gas Exchange in Humans/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 12. Respiration/
+│   │   │   ├── Respiration/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 13. Coordination & Response/
+│   │   │   ├── Coordination, Response & Homeostasis/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 14. Drugs/
+│   │   │   ├── Drugs in Medicine/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 15. Reproduction/
+│   │   │   ├── Reproduction in Plants & Humans/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 16. Inheritance/
+│   │   │   ├── Inheritance, Genes & Cell Division/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 17. Variation & Selection/
+│   │   │   ├── Variation & Natural Selection/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 18. Organisms & Their Environment/
+│   │   │   ├── Energy & Feeding Relationships/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 19. Human Influences on Ecosystems/
+│   │   │   ├── Human Impact: Biodiversity, Pollution & Conservation/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Organisation of the Organism/
+│   │   │   ├── Cell Structure & Size of Specimens/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Movement into & out of Cells/
+│   │   │   ├── Diffusion, Osmosis & Active Transport/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Biological Molecules/
+│   │   │   ├── Biological Molecules/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Enzymes/
+│   │   │   ├── Enzymes/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Plant Nutrition/
+│   │   │   ├── Photosynthesis & Leaf Structure/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Human Nutrition/
+│   │   │   ├── Human Diet & Digestion/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. Transport in Plants/
+│   │   │   ├── Transport in Plants/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Transport in Animals/
+│   │   │   ├── Circulatory Systems, Heart & Blood Vessels/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Chemistry 2023/
+│   │   ├── 1. States of Matter/
+│   │   │   ├── Solids, liquids & gases/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 10. Chemistry of the Environment/
+│   │   │   ├── Air Quality & Climate/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Water & Water Pollution/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 11. Organic Chemistry/
+│   │   │   ├── Formulae, Functional Groups & Terminology/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Organic Families/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Polymers/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 12. Experimental Techniques & Chemical Analysis/
+│   │   │   ├── Experimental Techniques/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Identification of Ions & Gases/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Separation & Purification/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Atoms, Elements & Compounds/
+│   │   │   ├── Atomic Structure & the Periodic Table/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Giant Structures/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Ions & Ionic Bonds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Simple Molecules & Covalent Bonds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Stoichiometry/
+│   │   │   ├── Formulae & Relative Masses/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── The Mole & the Avogadro Constant/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Electrochemistry/
+│   │   │   ├── Applications of Electrolysis/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Electrolysis/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Chemical Energetics/
+│   │   │   ├── Exothermic & Endothermic Reactions/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Chemical Reactions/
+│   │   │   ├── Chemical Change & Rate of Reaction/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Redox/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Reversible Reactions & Equilibrium/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 7. Acids, Bases & Salts/
+│   │   │   ├── Preparation of Salts/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── The Characteristic Properties of Acids & Bases/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 8. The Periodic Table/
+│   │   │   ├── Group Properties & Trends/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── The Periodic Table & Trends/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 9. Metals/
+│   │   │   ├── Extraction of Metals/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Properties, Uses & Alloys of Metals/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Reactivity Series & Corrosion of Metals/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Chemistry 23/
+│   │   ├── Acids, Bases & Salts/
+│   │   │   ├── Preparation of Salts/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── The Characteristic Properties of Acids & Bases/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── Atoms, Elements & Compounds/
+│   │   │   ├── Atomic Structure & the Periodic Table/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Giant Structures/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Ions & Ionic Bonds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Simple Molecules & Covalent Bonds/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── Chemical Energetics/
+│   │   │   ├── Exothermic & Endothermic Reactions/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── Chemical Reactions/
+│   │   │   ├── Chemical Change & Rate of Reaction/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Redox/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── Chemistry of the Environment/
+│   │   │   ├── Air Quality & Climate/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Water & Water Pollution/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── Electrochemistry/
+│   │   │   ├── Electrochemistry/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── Experimental Techniques & Chemical Analysis/
+│   │   │   ├── Experimental Techniques/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Identification of Ions & Gases/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Separation & Purification/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── Metals/
+│   │   │   ├── Extraction of Metals/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Properties, Uses & Alloys of Metals/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Reactivity Series & Corrosion of Metals/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── Organic Chemistry/
+│   │   │   ├── Formulae, Functional Groups & Terminology/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Organic Families/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Polymers/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── States of Matter/
+│   │   │   ├── Solids, Liquids & Gases/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── Stoichiometry/
+│   │   │   ├── Formulae & Relative Masses/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── The Mole & the Avogadro Constant/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── The Periodic Table/
+│   │   │   ├── Group Properties & Trends/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── The Periodic Table & Trends/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   ├── Physics 2023/
+│   │   ├── 1. Motion, Forces & Energy/
+│   │   │   ├── Effects of Forces/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Energy Sources/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Energy, Work & Power/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Mass, Weight & Density/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Moments/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Momentum/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Motion/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Physical Quantities & Measurement Techniques/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Pressure/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 2. Thermal Physics/
+│   │   │   ├── Kinetic Particle Model of Matter/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Thermal Properties & Temperature/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Transfer of Thermal Energy/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 3. Waves/
+│   │   │   ├── Electromagnetic Spectrum/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── General Properties of Waves/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Light/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Sound/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 4. Electricity & Magnetism/
+│   │   │   ├── Electric Circuits & Electrical Safety/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Electrical Quantities/
+│   │   │   │   ├── Alternative to Practical Questions/
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Electromagnetic Effects/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Simple Phenomena of Magnetism/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 5. Nuclear Physics/
+│   │   │   ├── Radioactivity/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── The Nuclear Model of the Atom/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   ├── 6. Space Physics/
+│   │   │   ├── Earth & The Solar System/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   ├── Stars & The Universe/
+│   │   │   │   ├── Multiple Choice Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
+│   │   │   │   ├── Theory Questions/
+│   │   │   │   │   ├── easy.pdf
+│   │   │   │   │   ├── hard.pdf
+│   │   │   │   │   └── medium.pdf
