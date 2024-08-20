@@ -11,6 +11,7 @@ dotenv.load_dotenv()
 
 PDF_URL_ADDON = "/pdf-list/"
 
+# Get the data from the CSV file and filter out the topic-questions
 df = pd.read_csv('links.csv')
 df = df[df['page_type'] == 'topic-questions']
 df.reset_index(drop=True, inplace=True)
@@ -23,6 +24,7 @@ print(df)
 
 converted_urls = []
 
+# Join the URL parts and convert them to a valid URL
 for i in range(len(df)):
     url = df.iloc[i]
     url = url.tolist()
@@ -32,6 +34,7 @@ for i in range(len(df)):
 
 print(converted_urls)
 
+# Create a directory to store the output files
 output_dir = "output_files"
 os.makedirs(output_dir, exist_ok=True)
 
@@ -101,6 +104,7 @@ def download_pdfs(url: str):
     os.makedirs(ROOT_DIR, exist_ok=True)
     os.makedirs(OUTPUT_DIRS, exist_ok=True)
 
+    # Iterate over the PDF files and download them
     for i, pdf_file in enumerate(pdf_files):
         topics = pdf_file['topics']
         sections = pdf_file['section']
@@ -132,6 +136,3 @@ for url in converted_urls:
     time.sleep(5)
     
 driver.quit()
-
-
-
