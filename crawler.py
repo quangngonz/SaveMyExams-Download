@@ -52,3 +52,8 @@ for url in visited_urls:
 
 with open("visited_urls.pkl", "wb") as f:
     pickle.dump(visited_urls, f)
+
+with open("visited_urls.txt", "w") as f:
+    for url in visited_urls:
+        f.write(url)
+        f.write("\n")
